@@ -1,0 +1,157 @@
+{
+  "main": {
+    "name": "Nilesh Samota",
+    "occupation": "Self Taught Frontend Developer",
+    "description": "I'm a developer, and I build Shit",
+    "image": "Nilesh.png",
+    "bio": "Name is Nilesh and I'm on my way towards becoming a FullStack Developer",
+    "contactmessage": "Get in touch with me-",
+    "email": "nileshsamota0602@gmail.com",
+    "phone": "+91 7045580086",
+    "address": {
+      "street": "123 Fake Street",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "zip": "ABC 123"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "https://drive.google.com/u/0/uc?id=1AykfznMf-VZID1rtXtcnG9nmUDdTLhTP&export=download",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/profile.php?id=100018241488506",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/nilesh-samota-98111a1b6/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/nileshsamota/?hl=en",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/NileshS236",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Not much to show off",
+    "education": [
+      {
+        "school": "TEC",
+        "degree": "BTech",
+        "graduated": "Not yet Graduated",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Developer at",
+        "title": "http://srgsolutions.in/index.html",
+        "years": "",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "55%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "50%"
+      },
+      {
+        "name": "Figma",
+        "level": "60%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "20%"
+      },
+      {
+        "name": "Express",
+        "level": "20%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Particles",
+        "category": "Fun dots play using Particle JS",
+        "image": "particles.png",
+        "url": "https://particle-bubbles.netlify.app/"
+      },
+      {
+        "title": "Paint",
+        "category": "Paint Application made using HTML, Sass, Javascript and Gsap",
+        "image": "paint.png",
+        "url": "https://my-paint-board.netlify.app/"
+      },
+      {
+        "title": "Squisito",
+        "category": "Basic food ordering app built with React JS",
+        "image": "squisito.png",
+        "url": "https://squisito-b8071.web.app"
+      },
+      {
+        "title": "React-MDB",
+        "category": "Movie and TV-Show search app using react hooks",
+        "image": "react-mdb.png",
+        "url": "https://react-movies-and-tvshows.web.app/"
+      },
+      {
+        "title": "WhatsApp-clone",
+        "category": "A simple chatApp with whatsapp-like looks built using material-icons and React JS",
+        "image": "whatsapp-clone.png",
+        "url": "https://whatsapp-clone-4b3ff.web.app/"
+      },
+      {
+        "title": "React-Chess",
+        "category": "Two-player Chess game for PC only built using ReactJS, chess.js, RxJS and react-dnd",
+        "image": "chess.png",
+        "url": "https://react-chess-time.netlify.app/"
+      },
+      {
+        "title": "Tic-Tac-Toe",
+        "category": "Two-player and Against AI. Made from scratch using vanilla JS and minimax algorithm",
+        "image": "tic-tac-toe.png",
+        "url": "https://tic-tac-toe-ai.netlify.app"
+      },
+      {
+        "title": "Spotify-Clone",
+        "category": "A Spotify Clone that plays music for premium users build using material-ui, Spotify-api and React JS",
+        "image": "spotify-clone.png",
+        "url": "https://spotify-clone-8b1af.web.app/"
+      },
+      {
+        "title": "TechTrickz",
+        "category": "Real world project build using ReactJS PHP and MySQL in cooperation with SRG Solutions IT Pvt Ltd",
+        "image": "techtrickz.png",
+        "url": "https://techtrickz.in/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Write your testimonials here",
+        "user": ""
+      }
+    ]
+  }
+}
