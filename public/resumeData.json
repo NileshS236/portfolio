@@ -115,10 +115,10 @@
         "url": "https://react-movies-and-tvshows.web.app/"
       },
       {
-        "title": "WhatsApp-clone",
-        "category": "A simple chatApp with whatsapp-like looks built using material-icons and React JS",
-        "image": "whatsapp-clone.png",
-        "url": "https://whatsapp-clone-4b3ff.web.app/"
+        "title": "React-Chat",
+        "category": "A simple chatApp built using materialUI-icons and React JS",
+        "image": "react-chat.png",
+        "url": "https://telegram-clone-32a3d.web.app/"
       },
       {
         "title": "React-Chess",
