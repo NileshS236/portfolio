@@ -14,7 +14,7 @@ const Contact = ({ data }) => {
     window.open(
       `mailto:${
         email ? email : "nileshsamota0602@gmail.com"
-      }?subject=${subject}&body=${name}: ${message}`
+      }?subject=${subject}&body=${name} - ${message}`
     );
   };
 
@@ -48,6 +48,7 @@ const Contact = ({ data }) => {
                   id="contactName"
                   name="contactName"
                   onChange={(e) => setName(e.target.value)}
+                  required
                 />
               </div>
 
@@ -92,6 +93,7 @@ const Contact = ({ data }) => {
                   rows="15"
                   id="contactMessage"
                   name="contactMessage"
+                  required
                 ></textarea>
               </div>
 
