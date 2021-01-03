@@ -134,8 +134,8 @@
       },
       {
         "title": "Gmail-Clone",
-        "category": "A Gmail Clone built using firebase, ReactJS, Material-ui and react-hooks",
-        "image": "spotify-clone.png",
+        "category": "A Gmail Clone built using firebase, ReactJS, Material-ui and react-hook-form",
+        "image": "gmail-clone.png",
         "url": "https://clone-7b1d8.web.app/"
       },
       {
