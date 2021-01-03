@@ -91,12 +91,6 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Particles",
-        "category": "Fun dots play using Particle JS",
-        "image": "particles.png",
-        "url": "https://particle-bubbles.netlify.app/"
-      },
-      {
         "title": "Paint",
         "category": "Paint Application made using HTML, Sass, Javascript and Gsap",
         "image": "paint.png",
@@ -137,6 +131,12 @@
         "category": "A Spotify Clone that plays music for premium users build using material-ui, Spotify-api and React JS",
         "image": "spotify-clone.png",
         "url": "https://spotify-clone-8b1af.web.app/"
+      },
+      {
+        "title": "Gmail-Clone",
+        "category": "A Gmail Clone built using firebase, ReactJS, Material-ui and react-hooks",
+        "image": "spotify-clone.png",
+        "url": "https://clone-7b1d8.web.app/"
       },
       {
         "title": "TechTrickz",
